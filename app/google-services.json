@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239569714858",
+    "firebase_url": "https://mobilelogin-696bf.firebaseio.com",
+    "project_id": "mobilelogin-696bf",
+    "storage_bucket": "mobilelogin-696bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239569714858:android:9951ffdb97724383",
+        "android_client_info": {
+          "package_name": "com.example.muhammadfaizan.mobilelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239569714858-9fn9bvm7jug8bo8n9v4h8usc0qp2jfgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muhammadfaizan.mobilelogin",
+            "certificate_hash": "68e50ddb5732f564f532849548e301d4cb6035a9"
+          }
+        },
+        {
+          "client_id": "239569714858-jnjk1cgs44jovfhde5kltk68f35mhhhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6o0L9nz0zkwu6tFSRk3F-gSLEUwocIDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239569714858-jnjk1cgs44jovfhde5kltk68f35mhhhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
