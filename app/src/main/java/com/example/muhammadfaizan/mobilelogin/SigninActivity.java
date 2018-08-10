@@ -35,7 +35,7 @@ public class SigninActivity extends AppCompatActivity {
         edtCode = findViewById(R.id.edtCode);
         button = findViewById(R.id.btnSend);
         firebaseAuth = FirebaseAuth.getInstance();
-        phoneAuthProvider = PhoneAuthProvider.getInstance();
+        phoneAuthProvider = PhoneAuthProvider.getInstance(); //mobile provider
 
 
         button.setOnClickListener(new View.OnClickListener() {
