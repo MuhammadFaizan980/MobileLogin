@@ -1,1 +1,1 @@
-This app demonstrates the signup method provided by firebase
+This app demonstrates the signup method provided by firebase phone auth provider
